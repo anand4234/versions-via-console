@@ -1,0 +1,19 @@
+Jquery UI Version - var version = $.ui ? $.ui.version || "pre 1.6" : 'jQuery-UI not detected'; console.log(version);
+
+Jquery - console.log(jQuery(). jquery)
+
+Modernizr - console.log(Modernizr._version)
+
+Knockout - console.log(ko.version)
+
+Bootstrap - bootstrap.Tooltip.VERSION
+
+Lodash - console.log(_.VERSION)
+
+jQUery Mobile - console.log($.mobile.version)
+
+Angular - console.log(angular.version.full)
+
+Handlebars - console.log(Handlebars.VERSION);
+
+Moment js - console.log(moment.version);
